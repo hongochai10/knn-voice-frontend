@@ -1,0 +1,35 @@
+{
+  "name": "voice-conversion-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-react-recorder": "^1.0.5",
+    "axios": "^1.6.0",
+    "react": "^16.14.0",
+    "react-audio-player": "^0.17.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
