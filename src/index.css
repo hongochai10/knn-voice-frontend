@@ -72,9 +72,6 @@ code {
   background-color: #093e42;
 }
 
-
-
-
 .control-buttons {
   display: flex;
   justify-content: center;
@@ -99,6 +96,10 @@ code {
   background-color: #2ecc71;
 }
 
+.tab-button {
+  background-color: #f1c40f;
+}
+
 .pause-button {
   background-color: #f1c40f;
 }
@@ -109,4 +110,5 @@ code {
 
 .submit-button {
   background-color: #2ecc71;
+  margin-top: 10px;
 }
